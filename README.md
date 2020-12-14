@@ -3,6 +3,8 @@
 Currently this game is available in...
 
   - Python
+  - C
+  - C++
 
 <h3> Contributions are welcomed in your favourite language!!</h3>
 First create an issue if you want to add new language or want to improve existing code. After that create a Pull Request. 
